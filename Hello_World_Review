@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num1 = 22;
+    //numX = Y is number(place) = number
+    int num2 = 23;
+    int num3 = 420;
+    //I'd do 030 but it just doesn't translate well
+
+    cout << "The value of num1 is " <<num1;
+    cout << "The value of num2 is " <<num2;
+    cout << "Hi mom, look at me now!" <<num3 << "The sum of num1 and num2 is " <<num1+num2;
+    //<< is like the space bar/period
+
+    return 0;
+}
